@@ -1,0 +1,5 @@
+{
+ "A1001": {"status": "delivered", "items": ["Wireless headphones"], "total": 89.0, "delivered": "2026-09-28"},
+ "A1002": {"status": "in_transit", "items": ["Phone case", "Charger"], "total": 34.5, "expected": "2026-10-09"},
+ "A1003": {"status": "processing", "items": ["Backpack"], "total": 120.0}
+}

@@ -1,0 +1,9 @@
+{
+  "model": "OfflineClient keyword stand-in (not a model)",
+  "n": 20,
+  "category_acc": 1.0,
+  "priority_acc": 0.95,
+  "refund_flag_acc": 1.0,
+  "refund_tickets_auto_sent": 0,
+  "misses": []
+}

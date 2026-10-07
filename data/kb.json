@@ -1,0 +1,8 @@
+[
+ {"title": "Reset your password", "text": "Use the Forgot password link on the sign in page. The reset email arrives within 5 minutes; check spam. Links expire after 1 hour."},
+ {"title": "Shipping times", "text": "Standard shipping takes 3 to 7 business days. Tracking is emailed when the order ships. Delays over 10 days are investigated."},
+ {"title": "Refund policy", "text": "Refund requests are reviewed by our billing team within 3 business days. Eligibility depends on order date and item condition."},
+ {"title": "Duplicate charges", "text": "A pending authorization can appear twice and drops off in 3 to 5 days. Settled duplicate charges are reviewed by billing."},
+ {"title": "App crashes on launch", "text": "Update to the latest version, restart the device, then reinstall if the crash continues. Include the app version and device model when contacting support."},
+ {"title": "Two factor authentication", "text": "If you lost your second factor, verify identity with a recovery code or contact support to start a verified reset."}
+]
